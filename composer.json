@@ -2,7 +2,9 @@
   "name": "insiteapps/membership",
   "description": "Silverstripe Insite Apps (south africa) commonly used membership project files",
   "type": "silverstripe-module",
-  "keywords": ["insite"],
+  "keywords": [
+    "insite"
+  ],
   "license": "BSD-3-Clause",
   "authors": [
     {
@@ -10,10 +12,10 @@
       "email": "patrick@chitosystems.com"
     }
   ],
-  "require":
-  {
+  "require": {
     "silverstripe/framework": "3.*",
     "silverstripe/cms": "3.*"
+
   },
   "extra": {
     "installer-name": "insiteapps-membership"
