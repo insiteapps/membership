@@ -1,0 +1,7 @@
+Page:
+  extensions:
+    - InsiteMembershipPageExtension
+
+Page_Controller:
+  extensions:
+    - InsiteMembershipPageControllerExtension
