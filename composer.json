@@ -15,7 +15,7 @@
   "require": {
     "silverstripe/framework": "3.*",
     "silverstripe/cms": "3.*",
-    "silverstripe-australia/memberprofiles":"dev-master"
+    "symbiote/silverstripe-memberprofiles":"~2.0"
 
   },
   "extra": {
